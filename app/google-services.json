@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089519269419",
+    "project_id": "scanner-44498",
+    "storage_bucket": "scanner-44498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089519269419:android:f86df483591117cdf89c6e",
+        "android_client_info": {
+          "package_name": "com.example.scannerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByfCaO1lZLUqjErXZQeRjWffUzBN59GvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_scanner"
+        android:icon="@drawable/baseline_qr_code_scanner_24"
+        android:title="Scanner" />
+    <item
+        android:id="@+id/navigation_products"
+        android:icon="@drawable/baseline_production_quantity_limits_24"
+        android:title="Products" />
+
+
+
+
+
+</menu>
